@@ -41,6 +41,7 @@ based on commits.
 | [Jeffrey Manno](https://github.com/Manno15)                 | [ASRC Federal](https://www.asrc.com)| [ET][et]   |
 | [Jeffrey Zeiberg](https://github.com/jzeiberg)              | [ASRC Federal](https://www.asrc.com)| [ET][et]   |
 | [Lucas Lima Vieira](https://github.com/llvieira)            |                                     | [BRT][brt] |
+| [Mark Owens](https://github.com/jmark99)                    |                                     | [ET][et]   |
 | [Manjiri Tapaswi](https://github.com/mptap)                 |                                     | [PT][pt]   |
 | [Michael Wall](https://github.com/mjwall)                   |                                     | [ET][et]   |
 | [Nikhil Manchanda](https://github.com/slicknik)             | [Microsoft][msft]                   | [PT][pt]   |
